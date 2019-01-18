@@ -1,0 +1,58 @@
+p {
+	width: 150px;
+	height: 50px;
+	background-color: grey;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 50%;
+}
+.popup {
+	width: all;
+	height:250px;
+	background-color: grey;
+	text-align: center;
+	margin-top: 100px;
+	margin-left:33px;
+	margin-right:33px;
+	display: none;
+}
+#button1{
+	background-color: red;
+	width: 150px;
+	height: 50px;
+	border-radius: 10px;
+
+}
+#button2{
+	background-color: blue;
+	width: 150px;
+	height: 50px;
+    border-radius: 10px;
+
+}
+#button3{
+	background-color: green;
+	width: 150px;
+	height: 50px;
+	border-radius: 10px;
+
+}
+#c {
+	color: white;
+	font-size: 25px;
+}
+#flip, #panel {
+	margin-top: 20px;
+	padding: 5px;
+	text-align: center;
+	/*background-color: grey;*/
+	
+}
+#panel {
+	padding:50px;
+	display: none;
+}
+#flip {
+	background-color: grey;
+	border:solid 1px black;
+}
